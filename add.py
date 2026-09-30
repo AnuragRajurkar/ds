@@ -5,3 +5,5 @@ b = 20
 c = a+b
 
 print('addition is ', c)
+
+print("adding new function")
